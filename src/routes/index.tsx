@@ -15,7 +15,7 @@ import nguonPhim from "@/assets/projects/nguon-phim.webp";
 import speedWheat from "@/assets/projects/speed-wheat.webp";
 import namMo from "@/assets/projects/nam-mo.webp";
 import iamRich from "@/assets/projects/i-am-rich.webp";
-
+import smmPro from "@/assets/projects/smm-pro.webp";
 
 const marquee = ["DIGITAL CRAFT", "PRECISION", "INTJ-T", "VIETNAM", "PERFORMANCE", "SLEEP MODE", "CLEAN CODE", "PREMIUM SYSTEMS"];
 
@@ -32,6 +32,7 @@ const projects = [
   { no: "02", title: "Speed Wheat", desc: "Speed Test", url: "https://speed-wheat.vercel.app/", image: speedWheat, tone: "md:col-span-5" },
   { no: "03", title: "Nam Mô A Di Đà Phật", desc: "Cầu nguyện mỗi ngày", url: "https://nammoadidaphat.vercel.app/", image: namMo, tone: "md:col-span-5" },
   { no: "04", title: "I Am Rich", desc: "Dự Án Nuôi Tôi", url: "https://iamrich.site", image: iamRich, tone: "md:col-span-7" },
+  { no: "05", title: "SMM PRO", desc: "Bảng giá dịch vụ", url: "https://banggia-smm.vercel.app", image: smmPro, tone: "md:col-span-7" },
 ];
 const profile = [
   ["HỌ & TÊN", "Đào Đăng Khoa"], ["SINH NHẬT", "24/04"], ["MBTI", "INTJ-T"], ["CUNG HOÀNG ĐẠO", "Kim ngưu"],
